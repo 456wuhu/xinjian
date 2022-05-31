@@ -53,5 +53,3 @@ $('#btnout').on('click', function () {
         }
     );
 });
-
-getUserinfo()
